@@ -1,1 +1,2 @@
 init=> initialize git repository
+git add=> adding to staging area
