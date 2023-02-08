@@ -1,2 +1,3 @@
 init=> initialize git repository
 git add=> adding to staging area
+git commit=> add to local repository
